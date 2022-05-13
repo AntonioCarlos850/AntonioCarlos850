@@ -1,6 +1,6 @@
 # Hi there, I'm Antonio 🖖
 
-- 💻 I’m currently working as a full stack developer on a Marketplace
+- 💻 I’m currently working as a backend developer on a Agency
  
 - 📩 How to reach me:
 
