@@ -1,6 +1,8 @@
 # Hi there, I'm Antonio 🖖
 
 - 💻 I’m currently working as a backend developer on a Software House
+
+- 🎓 Studying Systems Analysis and Development on IFPR
  
 - 📩 How to reach me:
 
