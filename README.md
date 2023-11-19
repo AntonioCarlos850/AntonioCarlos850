@@ -1,6 +1,6 @@
 # Hi there, I'm Antonio 🖖
 
-- 💻 I’m currently working as a Tech Lead and P.O. on a Software House
+- 💻 I’m currently working as a mid-level developer on a multinational company
 
 - 🎓 Studying Systems Analysis and Development on IFPR
  
